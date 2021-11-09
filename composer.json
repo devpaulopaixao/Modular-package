@@ -1,0 +1,17 @@
+{
+    "name": "usuario/modules",
+    "description": "Modular package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\Modules\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paulo Paixao",
+            "email": "paulinhohenrique90@yahoo.com.br"
+        }
+    ],
+    "require": {}
+}
